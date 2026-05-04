@@ -1,0 +1,2 @@
+/opt/rk3588_sdk/buildroot/output/latest/host/bin/aarch64-buildroot-linux-gnu-ar qc libgpu_ipc.a CMakeFiles/gpu_ipc.dir/AbstractGpuFpoIpc.cpp.o CMakeFiles/gpu_ipc.dir/Lightning.cpp.o CMakeFiles/gpu_ipc.dir/WriteLockAndNotify.cpp.o
+/opt/rk3588_sdk/buildroot/output/latest/host/bin/aarch64-buildroot-linux-gnu-ranlib libgpu_ipc.a

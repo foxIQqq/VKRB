@@ -1,0 +1,37 @@
+3rd_party/unp_cp/CMakeFiles/unp_cp.dir/src/unp_misc/lock.cc.o: \
+ /home/achernatkin/lightning_gpu/lightning_gpu/3rd_party/unp_cp/src/unp_misc/lock.cc \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/unistd.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features-time64.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/environments.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /opt/rk3588_sdk/buildroot/output/pkrv_ako_secure/host/lib/gcc/aarch64-buildroot-linux-gnu/11.3.0/include/stddef.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/confname.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_posix.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_core.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/unistd.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/unistd_ext.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/close_range.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_iovec.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/falloc.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endianness.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/time_t.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl2.h \
+ /home/achernatkin/lightning_gpu/lightning_gpu/3rd_party/unp_cp/inc/unp_misc/lock.h

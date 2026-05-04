@@ -1,0 +1,2 @@
+/opt/rk3588_sdk/buildroot/output/latest/host/bin/aarch64-buildroot-linux-gnu-ar qc librk_ipc.a CMakeFiles/rk_ipc.dir/src/AbstractShmemExchange.cpp.o CMakeFiles/rk_ipc.dir/src/FileDescription.cpp.o CMakeFiles/rk_ipc.dir/src/LocalSocket.cpp.o CMakeFiles/rk_ipc.dir/src/Locker.cpp.o CMakeFiles/rk_ipc.dir/src/MemWrapper.cpp.o CMakeFiles/rk_ipc.dir/src/TimeStamp.cpp.o
+/opt/rk3588_sdk/buildroot/output/latest/host/bin/aarch64-buildroot-linux-gnu-ranlib librk_ipc.a

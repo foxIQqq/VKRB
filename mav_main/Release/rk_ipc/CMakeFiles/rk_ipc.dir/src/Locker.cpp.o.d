@@ -1,0 +1,37 @@
+rk_ipc/CMakeFiles/rk_ipc.dir/src/Locker.cpp.o: \
+ /home/achernatkin/lightning_gpu/lightning_gpu/rk_ipc/src/Locker.cpp \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/achernatkin/lightning_gpu/lightning_gpu/rk_ipc/inc/rk_ipc/Locker.hpp \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/unistd.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features-time64.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/environments.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /opt/rk3588_sdk/buildroot/output/pkrv_ako_secure/host/lib/gcc/aarch64-buildroot-linux-gnu/11.3.0/include/stddef.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/confname.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_posix.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_core.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/unistd.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/unistd_ext.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/close_range.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_iovec.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/falloc.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endianness.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/time_t.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h \
+ /opt/rk3588_sdk/buildroot/output/latest/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl2.h

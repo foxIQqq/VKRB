@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Settings>
+
+<!--
+    Настройки отображения OSD
+
+    visibility:     (0/1)  Отображать элемент на экране или нет
+    positionX:      (0-29) Координата Х элемента
+    positionY:      (0-15) Координата Y элемента
+
+    Экран разбит 30х16, начиная с левого верхнего угла
+-->
+
+<Configuration>
+    <Altitude
+        visibility="0"
+        positionX="0"
+        positionY="1"
+    />
+    <AirSpeed
+        visibility="0"
+        positionX="0"
+        positionY="2"
+    />
+    <Status
+        visibility="1"
+        positionX="17"
+        positionY="10"
+    />
+    <Control
+        visibility="1"
+        positionX="14"
+        positionY="10"
+    />
+    <Pitch
+        visibility="0"
+        positionX="0"
+        positionY="13"
+    />
+    <Roll
+        visibility="0"
+        positionX="0"
+        positionY="14"
+    />
+    <Yaw
+        visibility="0"
+        positionX="0"
+        positionY="15"
+    />
+    <Voltage
+        visibility="0"
+        positionX="22"
+        positionY="15"
+    />
+    <CustomString
+        visibility="1"
+        positionX="0"
+        positionY="0"
+    />
+</Configuration>
